@@ -32,9 +32,8 @@ This project is a simple, responsive e-commerce frontend built with **Angular 19
 
 - **Framework**: Angular 19
 - **Language**: TypeScript
-- **Styling**: CSS / Tailwind / Bootstrap (specify if used)
+- **Styling**: CSS / Tailwind 
 - **Icons/Images**: Static or from API
-- **State Management**: Local state using services (or specify if NgRx or similar is used)
 
 ## 🏁 Getting Started
 
