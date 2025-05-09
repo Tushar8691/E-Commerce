@@ -1,59 +1,51 @@
-# AngularEcommerce
+# 🛒 My Store – Angular E-Commerce Website
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
+This project is a simple, responsive e-commerce frontend built with **Angular 19**. It displays a list of products, allows users to add/remove items to/from a cart, and provides a checkout interface.
 
-## Development server
+## 📸 Screenshots
+<img width="1470" alt="Screenshot 2025-05-09 at 10 17 21 AM" src="https://github.com/user-attachments/assets/aa2f86f0-6187-4ce0-9c89-0c740f584fa3" />
+<img width="1470" alt="Screenshot 2025-05-09 at 10 17 17 AM" src="https://github.com/user-attachments/assets/22b7ef89-7fff-46e3-b648-9db1704c1af4" />
 
-To start a local development server, run:
+
+### Home Page (Product Listings)
+- Shows available products with stock status.
+- "Add to Cart" button for each product.
+- Out-of-stock items are visually indicated.
+
+### Cart Page
+- Displays all items added to the cart.
+- Total price calculation.
+- Option to remove individual items.
+- Checkout button for proceeding.
+
+## 🚀 Features
+
+- Angular 19 application structure.
+- Component-based architecture.
+- Dynamic product rendering.
+- Cart management.
+- UI updates based on stock availability.
+- Total price calculation.
+
+## 🧰 Tech Stack
+
+- **Framework**: Angular 19
+- **Language**: TypeScript
+- **Styling**: CSS / Tailwind / Bootstrap (specify if used)
+- **Icons/Images**: Static or from API
+- **State Management**: Local state using services (or specify if NgRx or similar is used)
+
+## 🏁 Getting Started
+
+### Prerequisites
+
+- Node.js >= 18.x
+- Angular CLI
+
+### Installation
 
 ```bash
+git clone https://github.com/Tushar8691/E-Commerce.git
+cd E-Commerce
+npm install
 ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
