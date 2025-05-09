@@ -3,7 +3,8 @@
 This project is a simple, responsive e-commerce frontend built with **Angular 19**. It displays a list of products, allows users to add/remove items to/from a cart, and provides a checkout interface.
 
 ## 📸 Screenshots
-<img width="1470" alt="Screenshot 2025-05-09 at 10 17 21 AM" src="https://github.com/user-attachments/assets/aa2f86f0-6187-4ce0-9c89-0c740f584fa3" />
+![image](https://github.com/user-attachments/assets/c6c8b3dc-98c7-4fe8-a6fd-2b437aed262b)
+
 <img width="1470" alt="Screenshot 2025-05-09 at 10 17 17 AM" src="https://github.com/user-attachments/assets/22b7ef89-7fff-46e3-b648-9db1704c1af4" />
 
 
